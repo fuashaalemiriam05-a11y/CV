@@ -3,6 +3,7 @@
 **PHONE**: 653809330  
 **REGION**: North west  
    ### My picture  
+   [![My profile image](https://github.com/fuashaalemiriam05-a11y/CV/blob/main/IMG-20251214-WA0104.jpg))
    
    ### Personal information   
 1. My name is FUASHAALE  
