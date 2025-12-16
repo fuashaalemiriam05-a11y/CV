@@ -16,7 +16,8 @@
 - learning new programming languages
 - learning more and practicing UI/UX designing
 - joining and learning more about the importance of communities   
-      
+ ### My projects  
+ 
 
 
 
