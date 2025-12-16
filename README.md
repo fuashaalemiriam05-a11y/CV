@@ -8,10 +8,10 @@
 3. Schooling at YIBs at simbock yaounde  
 4. Im passionate about UI/UX designing and web development  
    ### My educational journey  
-1. My educational journey so far as a level   
-2. student in the university has been fraustrating
-3. Has been stressful and tiring
-4.  4. BUT exciting and fun
+i. My educational journey so far as a level   
+ii. student in the university has been fraustrating
+iii. Has been stressful and tiring
+iv. BUT exciting and fun
    ### My Personal experience
 - learning new programming languages
 - learning more and practicing UI/UX designing
