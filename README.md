@@ -1,8 +1,8 @@
-#FUASHAALE GHUMUE DUFE MIRIAM  
+# FUASHAALE GHUMUE DUFE MIRIAM  
 EMAIL: fuashaalemiriam05@gmail.com  
 PHONE: 653809330  
 REGION: North west  
-###Personal information   
+### Personal information   
 My name is FUASHAALE i am an aspiring software engineering student schooling at YIBs at simbock yaounde and im passionate about UI/UX designing and web development 
 
 
