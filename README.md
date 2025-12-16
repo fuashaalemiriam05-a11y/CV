@@ -2,6 +2,8 @@
 **EMAIL**: fuashaalemiriam05@gmail.com  
 **PHONE**: 653809330  
 **REGION**: North west  
+   ### My picture  
+   
    ### Personal information   
 1. My name is FUASHAALE  
 2. I am an aspiring software engineering student  
