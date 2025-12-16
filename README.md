@@ -11,7 +11,7 @@
 i. My educational journey so far as a level   
 ii. student in the university has been fraustrating  
 iii. Has been stressful and tiring  
-iv. BUT exciting and fun
+iv. But exciting and fun
    ### My Personal experience
 - learning new programming languages
 - learning more and practicing UI/UX designing
