@@ -9,8 +9,8 @@
 4. Im passionate about UI/UX designing and web development  
    ### My educational journey  
 i. My educational journey so far as a level   
-ii. student in the university has been fraustrating
-iii. Has been stressful and tiring
+ii. student in the university has been fraustrating  
+iii. Has been stressful and tiring  
 iv. BUT exciting and fun
    ### My Personal experience
 - learning new programming languages
